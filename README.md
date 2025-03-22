@@ -81,14 +81,11 @@ docker run -p 8000:8000 ai-traffic
 ---
 
 ## **🖼 Screenshots**
-## Traffic Detection
-![Traffic Detection]("C:\Users\SATHWIKA\OneDrive\Pictures\Screenshots\Screenshot 2025-03-21 232630.png")
+### 🚦 Traffic Detection 
+![Traffic Detection](images/vehicles detection.png)
 
-## Frontend
-![Frontend]("C:\Users\SATHWIKA\OneDrive\Pictures\Screenshots\Screenshot 2025-03-22 003954.png")
-
-
-
+### 🖥️ Frontend Interface
+![Frontend](images/AI Traffic Management.png)
 
 
 
