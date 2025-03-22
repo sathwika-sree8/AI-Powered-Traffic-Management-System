@@ -82,10 +82,10 @@ docker run -p 8000:8000 ai-traffic
 
 ## **🖼 Screenshots**
 ### 🚦 Traffic Detection 
-![Traffic Detection]()
+![Traffic Detection](https://github.com/sathwika-sree8/AI-Powered-Traffic-Management-System/blob/main/vehicles%20detection.png?raw=true)
 
 ### 🖥️ Frontend Interface
-![Frontend](https://github.com/sathwika-sree8/AI-Powered-Traffic-Management-System/blob/main/vehicles%20detection.png?raw=true)
+![Frontend](https://github.com/sathwika-sree8/AI-Powered-Traffic-Management-System/blob/main/AI%20Traffic%20Management.png?raw=true)
 
 
 
