@@ -8,3 +8,8 @@ streamlit
 pydantic
 aiokafka
 tensorflow
+opencv-python-headless
+ultralytics
+easyocr
+deep_sort_realtime
+pandas
